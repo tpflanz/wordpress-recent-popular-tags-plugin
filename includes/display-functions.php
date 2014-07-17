@@ -24,11 +24,11 @@ function rpt_display_content ($content = ""){
 	?>
 
 	<div class="recent-popular-tags">
-	<?php 
+	<?php
 	$rpt_heading = $rpt_options['heading_tags'];
-	if (!isset($rpt_heading)); { 
-		echo '<h3>' . $rpt_heading . '</h3>'; 
-	} ?>
+	if( !empty($rpt_heading) ) { ?>
+	<?php echo '<h3>' . $rpt_heading . '</h3>'; ?>
+	<?php } ?>
 	<?php
 	$rpt_days = $rpt_options['number_days'];
 	global $wpdb;
