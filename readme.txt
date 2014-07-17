@@ -36,7 +36,7 @@ Use *[recent-popular-tags]* in a "Text" widget to display Recent Popular Tags in
 
 1. Go to Dashboard >> Plugins >> Add New >> Search
 2. Search for "Recent Popular Tags," click "Install Now," then "Activate Plugin"
-3a. Go to "Recent Popular Tags" settings and enter heading, number of days and number of tags. The plugin will display below each blog post
+3a. Go to "Recent Popular Tags" settings and enter heading, number of days and number of tags. "Recent Popular Posts" will display below each blog post
 3b. Use shortcode `[recent-popular-posts]` to display "Recent Popular Posts" in a blog post, page or a text widget
 3c. Use `<?php if ( function_exists('rpt_display_content') ) { echo do_shortcode('[recent-popular-posts]')} ?>` to display "Recent Popular Tags" in your template files
 
