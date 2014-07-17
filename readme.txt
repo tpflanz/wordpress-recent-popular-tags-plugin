@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: tpflanz, Fastmover 
-Donate link: http://example.com/
+Donate link: http://webworksofkc.com/
 Tags: plugin, tags, recent, popular, shortcode
 Requires at least: 3.9
 Tested up to: 3.9.1
