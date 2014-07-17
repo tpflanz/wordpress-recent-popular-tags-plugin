@@ -16,7 +16,7 @@ function rpt_load_scripts() {
 	if(is_single()){
 
 
-		wp_enqueue_style('rpt-styles', plugin_dir_url(__FILE__) . 'css/plugin_styles.css');
+		wp_enqueue_style('rpt-styles', plugin_dir_url(__FILE__) . 'css/rpt_styles.css');
 
 
 	}
