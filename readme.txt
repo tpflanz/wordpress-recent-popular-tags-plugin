@@ -8,11 +8,11 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display the recent popular tags used by authors on your website. Valuable for website with current events.
+Display the recent popular tags used by website authors. Valuable for website with current events.
 
 == Description ==
 
-Recent Popular Tags WordPress plugin allow the administrator to display the most popular recently used tags by post authors. 
+Recent Popular Tags WordPress plugin allows the administrator to display the most popular recently used tags by post authors. 
 
 This plugin is very valuable for current events websites because it gives admins the ability to set the number of tags to display and how many days to go back... No more popular tags displaying from two years ago!
 
@@ -22,7 +22,7 @@ Recent Popular Tags will be displayed beneath each blog post.
 
 **Shortcode**
 
-Use shortcode *[recent-popular-tags]* to display Recent Popular Tags anywhere in blog posts, pages, custom post types or in a text widget
+Use shortcode *[recent-popular-tags]* to display Recent Popular Tags anywhere in blog posts, pages, custom post types or in a text widget.
 
 **Template Tag**
 
@@ -44,7 +44,7 @@ Use *[recent-popular-tags]* in a "Text" widget to display Recent Popular Tags in
 
 = How can I disable Recent Popular Tags from displaying below every blog post =
 
-This feature is coming soon. Until then, you can add `.type-post .recent-popular-tags:last-of-type{display:none}` to your theme's style.css to crudely remove it.
+This feature is coming soon. Until then, you can add `.type-post .recent-popular-tags:last-of-type{display:none}` to your theme's style.css to remove it.
 
 == Screenshots ==
 
