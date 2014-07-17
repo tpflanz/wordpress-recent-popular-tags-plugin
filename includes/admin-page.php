@@ -20,7 +20,7 @@ function rpt_options_page(){
 
 			<p>
 				<input id="rpt_settings[heading_tags]" name="rpt_settings[heading_tags]" type="text" value="<?php echo $rpt_options['heading_tags']; ?>">
-				<label class="description" for="rpt_settings[heading_tags]"><?php _e('Enter the heading you would like to display above the tags', 'rpt_domain'); ?></label>				
+				<label class="description" for="rpt_settings[heading_tags]"><?php _e('Enter the heading you would like to display above the tags. If left blank, no heading will be displayed.', 'rpt_domain'); ?></label>				
 			</p>
 
 			<h4><?php _e('Number of Tags', 'rpt_domain'); ?></h4>
